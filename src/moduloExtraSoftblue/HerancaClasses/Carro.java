@@ -1,4 +1,4 @@
-package moduloExtraSoftblue.Herança;
+package moduloExtraSoftblue.HerancaClasses;
 
 public class Carro extends Veiculo {
 

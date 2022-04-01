@@ -1,4 +1,4 @@
-package moduloExtraSoftblue.Herança;
+package moduloExtraSoftblue.HerancaClasses;
 
 public class Aplicacao {
     public static void main(String[] args) {
@@ -19,13 +19,13 @@ public class Aplicacao {
         m.setMarca("Caloi");
         m.setAno(2009);
         m.imprimirDados();
-//        m.empinar();
-//        m.buzinar();
+        m.empinar();
+        m.buzinar();
 
 
 //        Caminhao cam = new Caminhao();
 //        cam.buzinar();
-
+//
 //        v.imprimirDados();
 
 

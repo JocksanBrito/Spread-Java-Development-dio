@@ -1,8 +1,8 @@
-package moduloExtraSoftblue.Herança;
+package moduloExtraSoftblue.HerancaClasses;
 
 public class Caminhao extends Veiculo{
 
-    @Override
+    @Override //sinal de sobrescrita
     public void buzinar() {
         System.out.println("FOM FOM");
     }

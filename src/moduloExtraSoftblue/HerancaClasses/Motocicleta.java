@@ -1,4 +1,4 @@
-package moduloExtraSoftblue.Herança;
+package moduloExtraSoftblue.HerancaClasses;
 
 public class Motocicleta extends Veiculo{
 
