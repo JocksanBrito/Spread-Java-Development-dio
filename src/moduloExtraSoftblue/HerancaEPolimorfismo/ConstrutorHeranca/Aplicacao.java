@@ -1,4 +1,4 @@
-package moduloExtraSoftblue.ConstrutorHeranca;
+package moduloExtraSoftblue.HerancaEPolimorfismo.ConstrutorHeranca;
 
 public class Aplicacao {
     public static void main(String[] args) {

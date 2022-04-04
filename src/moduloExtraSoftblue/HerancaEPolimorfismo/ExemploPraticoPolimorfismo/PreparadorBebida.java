@@ -1,4 +1,4 @@
-package moduloExtraSoftblue.ExemploPraticoPolimorfismo;
+package moduloExtraSoftblue.HerancaEPolimorfismo.ExemploPraticoPolimorfismo;
 
 public class PreparadorBebida {
     public void prepararBebida(Bebida bebida){

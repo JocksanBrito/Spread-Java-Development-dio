@@ -1,4 +1,4 @@
-package moduloExtraSoftblue.HerancaClasses;
+package moduloExtraSoftblue.HerancaEPolimorfismo.HerancaClasses;
 
 public class Caminhao extends Veiculo{
 

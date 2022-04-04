@@ -1,4 +1,4 @@
-package moduloExtraSoftblue.Polimorfismo;
+package moduloExtraSoftblue.HerancaEPolimorfismo.Polimorfismo;
 
 public class Gato extends Animal {
     @Override

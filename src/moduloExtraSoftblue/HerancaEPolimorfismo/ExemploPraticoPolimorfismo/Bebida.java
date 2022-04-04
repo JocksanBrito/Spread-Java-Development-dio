@@ -1,4 +1,4 @@
-package moduloExtraSoftblue.ExemploPraticoPolimorfismo;
+package moduloExtraSoftblue.HerancaEPolimorfismo.ExemploPraticoPolimorfismo;
 
 public class Bebida {
     private String nome;
